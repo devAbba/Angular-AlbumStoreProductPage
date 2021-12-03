@@ -5,7 +5,7 @@ import { ProductService } from '../product.service';
   selector: 'app-product-description',
   templateUrl: './product-description.component.html',
   styleUrls: ['./product-description.component.css'],
-  providers: [ProductService]
+  
   
 })
 export class ProductDescriptionComponent implements OnInit {
